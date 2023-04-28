@@ -13,7 +13,7 @@
  *= require_tree .
  *= require_self
  */
-.food-btn {
+ .food-btn {
   display: flex;
   flex-direction: column;
   align-items: end;
