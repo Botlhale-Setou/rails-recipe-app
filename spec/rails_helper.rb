@@ -8,7 +8,7 @@ require 'rspec/rails'
 # Add additional requires below this line. Rails is not loaded until this point!
 def login_user
   @user = User.create(
-    name: 'George',
+    name: 'Asif',
     email: 'correct@email.com',
     password: 'correctpassword',
     confirmed_at: Time.now
