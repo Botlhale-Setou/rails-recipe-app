@@ -131,15 +131,15 @@ To run tests, run the following command:
 
 👤 **Botlhale-Setou**
 
-- GitHub: [@Botlhale-Setou](https://github.com/Botlhale-Setou)
+- GitHub: [Botlhale-Setou](https://github.com/Botlhale-Setou)
 - Twitter: [Botlhale-Setou](https://twitter.com/Botlhale_Setou)
 - LinkedIn: [Botlhale-Setou](https://www.linkedin.com/in/georgekinyanjui/)
 
 👤 **asifaminisonline**
 
-- GitHub: [@asifaminisonline ](https://github.com/asifaminisonline)
-- Twitter: [@Asif Amin](https://twitter.com/AminAmi53306702)
-- LinkedIn: [@Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
+- GitHub: [asifaminisonline ](https://github.com/asifaminisonline)
+- Twitter: [Asif Amin](https://twitter.com/AminAmi53306702)
+- LinkedIn: [Asif Amin](https://www.linkedin.com/in/asifaminisonline/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
