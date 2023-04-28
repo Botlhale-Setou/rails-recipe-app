@@ -1,7 +1,6 @@
 class FoodsController < ApplicationController
   def index
-    @user = current_user
-    @foods = Food.includes(:user).where(user: @current_user)
+    @foods = Food.all
   end
 
   def show
@@ -31,6 +30,6 @@ class FoodsController < ApplicationController
   private
 
   def food_params
-    params.require(:food).permit(:name, :user_id, :measurement_unit, :price)
+    params.require(:food).permit(:name, :user_id, :measurement_unit, :price, :quantity)
   end
 end
